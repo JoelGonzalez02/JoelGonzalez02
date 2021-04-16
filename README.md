@@ -1,7 +1,7 @@
 ### Hello There!
 
-- 🔭 I’m currently working on CitySpire,
-- CitySpire is a website that shows you essential information on cities all around the U.S like crime data, average weather, top schools and more!
+- 🔭 I’m currently working on CitySpire
+- 🏙️ CitySpire is a website that shows you essential information on a myriad of cities all around the U.S such as crime data, average weather, top schools and more!
 - 🌱 I’m currently learning React, JavaScript, Python and more
 - 📫 How to reach me: joelgonzadev@gmail.com
 - ⚡ Fun fact: I know all the best taco spots in Los Angeles 🌮🌮🌮
