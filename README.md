@@ -4,7 +4,7 @@
 - 🏙️ CitySpire is a website that shows you essential information on a myriad of cities all around the U.S such as crime data, average weather, top schools and more!
 - 🌱 I’m currently learning React, JavaScript, Python and more
 - 📫 How to reach me: joelgonzadev@gmail.com
-- ⚡ Fun fact: I know all the best taco spots in Los Angeles 🌮🌮🌮
+- ⚡ Fun fact: I know all of the best taco spots in Los Angeles 🌮🌮🌮
 
 <!--
 **JoelGonzalez02/JoelGonzalez02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
