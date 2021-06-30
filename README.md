@@ -1,10 +1,9 @@
 ### Hello There!
 
-- 🔭 I’m currently working on CitySpire
-- 🏙️ CitySpire is a website that shows you essential information on various cities all around the U.S such as the most dangerous cities, best weather cities, top school cities and more!
-- 🌱 I’m currently learning React, JavaScript, node.js, Python and more
+- 🔭 I’m currently working on personal project called Adopts
+- 🌱 I’m currently learning Typescript, MongoDB, and building on my knowledge of React, JavaScript as well as data structures and algorithms. 
 - 📫 How to reach me: joelgonzadev@gmail.com
-- ⚡ Fun fact: I know all of the best taco spots in Los Angeles 🌮🌮🌮
+- ⚡ Fun fact: I can play 5 different instruments, althought not at the same time sadly :(
 
 <!--
 **JoelGonzalez02/JoelGonzalez02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
