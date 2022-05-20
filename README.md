@@ -1,7 +1,7 @@
 ### Hello There!
 
-- 🔭 I’m currently working on personal project called Adopts (Mobile and web applications)
-- 🌱 I’m currently learning React-Native, Typescript, MongoDB, and building on my knowledge of React, JavaScript as well as data structures and algorithms. 
+- 🔭 I’m currently working on personal project called Adopts
+- 🌱 I’m also always building on my knowledge of React, JavaScript as well as data structures and algorithms. 
 - 📫 How to reach me: joelgonzadev@gmail.com
 - ⚡ Fun fact: I can play 5 different instruments, althought not at the same time sadly :(
 
