@@ -1,6 +1,6 @@
 ### Hello There!
 
-- 🔭 I’m currently working on a project called Adopts
+- 🔭 I’m currently working on a app called Adopts
 - 🌱 I’m also always building on my knowledge of React, JavaScript as well as data structures and algorithms. 
 - 📫 How to reach me: joelgonzadev@gmail.com
 - ⚡ Fun fact: I can play 5 different instruments, althought not at the same time sadly :(
