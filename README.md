@@ -1,9 +1,9 @@
 ### Hello There!
 
-- 🔭 I’m currently working on a app called Adopts
-- 🌱 I’m also always building on my knowledge of React, JavaScript as well as data structures and algorithms. 
+- 🔭 I’m currently working on an app called Adopts
+- 🌱 Always building on my knowledge of the frontend and backend, as well as data structures and algorithms. 
 - 📫 How to reach me: joelgonzadev@gmail.com
-- ⚡ Fun fact: I can play 5 different instruments, althought not at the same time sadly :(
+- ⚡ Fun fact: I can play 5 different instruments, although not at the same time so sadly I can't be a one man band :(
 
 <!--
 **JoelGonzalez02/JoelGonzalez02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
